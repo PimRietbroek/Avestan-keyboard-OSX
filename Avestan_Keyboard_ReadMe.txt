@@ -33,10 +33,10 @@ You need to log out and log in again for the keyboard layout to show up in the l
 2. Click on “Keyboard”.
 3. In the Keyboard pane, click on the “Input Sources” tab.
 4. In Input Sources, the left-hand list shows the installed keyboard layouts. (It may be only one, when you have activated no others.) Near the bottom (right), checkmark “Show Input menu in menu bar”: this will help you choose amongst the installed keyboards.
-5. Also in Input Sources, below the left-hand list, click on the “+” button to choose the keyboard you wish to add. In the pop-up list, click on “Avestan (Avestan)”: the right-hand pane will probably just show you one choice, “Avestan”, with the Faravahar symbol next to it. Click that item to select it, and click the “Add” button.
+5. Also in Input Sources, below the left-hand list, click on the “+” button to choose the keyboard you wish to add. In the pop-up list, click on “Avestan”: the right-hand pane will probably just show you one choice, “Avestan”, with the Faravahar symbol next to it. Click that item to select it, and click the “Add” button.
 6. You can quit System Preferences: you are done! “Avestan” is now an option in your Keyboard menu, which is shown in the menu bar in the right-hand half. (The Keyboard menu is frequently called the “flag menu”, because many keyboards have a flag icon associated with it.)
 
-For more detailed information, please consult the Avestan Keyboard User Guide.
+For more detailed information, please consult the Avestan Keyboard User Guide. [Still to be completed – PR]
 
 USE
 
