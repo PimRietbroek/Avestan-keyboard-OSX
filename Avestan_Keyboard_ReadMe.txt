@@ -38,11 +38,31 @@ You need to log out and log in again for the keyboard layout to show up in the l
 
 For more detailed information, please consult the Avestan Keyboard User Guide. [Still to be completed – PR]
 
-USE
+USING THE AVESTAN KEYBOARD
 
 In the Keyboard menu found towards the right of the menu bar in OS X – sometimes called the “flag menu” – the Avestan keyboard is symbolised by a picture of the “Faravahar” (see: http://en.wikipedia.org/wiki/Faravahar).
 
-FOR OTHER DEVELOPERS: DESIGN CONSIDERATIONS
+AVESTAN FONTS
+
+The following fonts that I have found so far – May of 2015 –, and that I was able to analyse, claim to support the Avestan script. This list is necessarily incomplete: I have not bought any font licenses in order to investigate fonts. Also, even current Internet search technologies do not guarantee a return of complete and exhaustive results.
+If you find any useful fonts supporting the Avestan script yourself, free or paid, please submit a report to the excellent ScriptSource information repository <http://scriptsource.org>, so that others may benefit from your knowledge.
+[Please note the remarks enclosed in square brackets added in the case of some fonts for issues like missing characters!]
+
+– Ahuramazda v. 1.0 by Ernst Tremel <http://www.skytower.org/~ernstjtremel/Ahuramazda/AhuramzdaFont.htm> and <http://openfontlibrary.org/en/font/ahuramazda>
+[Missing character: U+2E30 RING POINT]
+
+– ALPHABETUM v. 11 by Juan-José Marcos García <http://guindo.pntic.mec.es/~jmag0042/alphabet.html>
+
+– Avestamanus v. 1.0 by Serge Axenov <http://sourceforge.net/projects/avestafonts/>
+[Missing characters: U+10B15 (used only in Pazend), U+2E30 RING POINT, U+2E31 WORD SEPARATOR MIDDLE DOT (the latter two are vital, esp. U+2E31, as word separators in Avestan)]
+
+– Noto Sans Avestan v. 1.02 by Google, design by the Monotype Design team <http://www.google.com/get/noto/pkgs/NotoSansAvestan-unhinted.zip>
+[Missing characters: U+2E30 RING POINT, U+2E31 WORD SEPARATOR MIDDLE DOT (these two are vital, esp. U+2E31, as word separators in Avestan)]
+
+– Zavesta by William W. Malandra and Emily Blanchard West <no URL known at present>
+[Missing character: U+2E30 RING POINT]
+
+FOR OTHER KEYBOARD DEVELOPERS: DESIGN CONSIDERATIONS
 
 I have been on the lookout for Avestan resources for some time, on and off. In the spring of 2015 I stumbled across Ernst Tremel’s diligent efforts to get an Avestan keyboard working on Ubuntu <http://www.skytower.org/~ernstjtremel/index.htm> (he has also provided the world with the “Ahuramazda” Avestan font). Simos Xenitellis actually compiled the Ubuntu keyboard on the basis of information provided by Ernst Tremel <http://simos.info/blog/archives/1134>. AFAIK, his is the first working Avestan keyboard ever created and published.
 
