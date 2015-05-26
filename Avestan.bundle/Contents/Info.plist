@@ -13,7 +13,7 @@
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.avestan.avestan</string>
 		<key>TISIntendedLanguage</key>
-		<string>ae-Avst-IR</string>
+		<string>ae</string>
 	</dict>
 </dict>
 </plist>
