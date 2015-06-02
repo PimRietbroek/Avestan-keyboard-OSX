@@ -46,7 +46,8 @@ AVESTAN FONTS
 
 The following fonts that I have found so far – May of 2015 –, and that I was able to analyse, claim to support the Avestan script. This list is necessarily incomplete: I have not bought any font licenses in order to investigate fonts. Also, even current Internet search technologies do not guarantee a return of complete and exhaustive results.
 If you find any useful fonts supporting the Avestan script yourself, free or paid, please submit a report to the excellent ScriptSource information repository <http://scriptsource.org>, so that others may benefit from your knowledge.
-[Please note the remarks enclosed in square brackets added in the case of some fonts for issues like missing characters!]
+
+[Please note the remarks enclosed in square brackets that I have added to indicate issues like missing characters!]
 
 – Ahuramazda v. 1.0 by Ernst Tremel <http://www.skytower.org/~ernstjtremel/Ahuramazda/AhuramzdaFont.htm> and <http://openfontlibrary.org/en/font/ahuramazda>
 [Missing character: U+2E30 RING POINT]
